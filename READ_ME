@@ -1,0 +1,11 @@
+SPACE SERENADERS - Asteroids crossed with Karaoke 
+
+Dependencies:
+
+OpenFrameworks 7
+	ofxOsc
+
+Box2D
+
+OSC messaging to and from SuperCollider
+
